@@ -63,7 +63,7 @@
   
 <div>
 
-<h2> Please input your marks of English </h2> 
+<h2>Please input your marks of Preferable Subjects</h2> 
 
 <form name="form" action="" method="get">
   <input type="number" name="result" id="result" value="">
@@ -109,7 +109,7 @@ if($result >= 0 && $result <= 32){
     
 }else{
 
-    echo "<h1>Unrecognized Marks! We're sorry.</h1>";
+    echo "<h1>Unknown Marks! We're sorry.</h1>";
 
 }
 
