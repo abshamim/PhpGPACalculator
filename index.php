@@ -66,7 +66,8 @@
 <h2>Please input your marks of Preferable Subjects</h2> 
 
 <form name="form" action="" method="get">
-  <input type="number" name="result" id="result" value="">
+  <input type="number" name="result">
+  <input type="submit" value="Submit">
 </form>
 
 
